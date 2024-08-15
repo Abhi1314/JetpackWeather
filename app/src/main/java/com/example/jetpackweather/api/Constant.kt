@@ -1,5 +1,5 @@
 package com.example.jetpackweather.api
 
 object Constant {
-    val apikey="enter your api key here"
+    val apikey="Enter your api key here"
 }
